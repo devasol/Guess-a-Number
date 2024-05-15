@@ -5,6 +5,7 @@ Features
 •	Allows the user to input their guess
 •	Provides feedback if the guess is too high, too low, or correct
 •	Tracks the number of attempts
+if you want to review the game on live use this👉 link: https://devasol.github.io/Guess-a-Number/
 Getting Started
 Prerequisites
 To run this project, you will need a modern web browser with JavaScript enabled.
